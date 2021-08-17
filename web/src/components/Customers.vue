@@ -46,7 +46,7 @@
       <td>{{ item.customer_email }}</td>
       <td>
         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" @click="getCustomersModal(item);getPetsModal(item);">
-          User Login
+          Detay
         </button>
       </td>
     </tr>
